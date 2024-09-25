@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>BT Practice Client</p>
+        <p>Client</p>
         <a className="App-link" href="http://www.btinc.co.kr" target="_blank" rel="noopener noreferrer">
           http://www.btinc.co.kr
         </a>
